@@ -27,3 +27,4 @@ async def classify(
     }
 
     # feature-A: 첫 번째 작업
+    # feature-A: 두 번째 작업
