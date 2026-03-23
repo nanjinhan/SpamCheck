@@ -1,3 +1,5 @@
+# feature-C: 첫번째 작업
+
 from fastapi import FastAPI, Body
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
