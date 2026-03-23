@@ -25,3 +25,13 @@ async def classify(
     return {
         "label": label, "score": score
     }
+
+    
+    
+    
+    
+    
+    
+    
+    
+    # feature-B: 첫 번째 작업
